@@ -5,7 +5,7 @@
 
 ### Documentation
 
-In this repository you will find the schematic and playing surface layouts, as well as some useful guides for tuning and DIY building.
+In this repository you will find the schematic and playing surface layouts, as well as some useful guides for tuning and DIY building and hacking.
 
 
 

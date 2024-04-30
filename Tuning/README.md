@@ -9,4 +9,4 @@
 <br><img src="Touch.jpg" width="300"><img src="Finger.jpg" width="300">
 4. Use the tuning tool to **gently** turn the tuning screw associated with the note of the reference tone you are playing
 <br><img src="Tuners.jpg" width="300"><img src="Tool.jpg" width="300">
-5. Repeat for all notes until they match each reference tone
+5. Repeat for all notes until they match each reference tone. You can go back through all the notes and tweak them a few times to dial in more precise tuning. 
